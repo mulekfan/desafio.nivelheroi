@@ -41,4 +41,7 @@ for (let heroi of herois) {
 
     // Saída para cada herói
     console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
-}
+} 
+   //resultado tiago esta no nivel prata
+   elon nivel ouro e felipe nivel platina.
+
