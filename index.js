@@ -4,9 +4,9 @@
 
 const herois = [
     { nome: "tiago", xp: 2640 },
-    { nome: "heroi1", xp: 6000 },
-    { nome: "heroi2", xp: 7500 },
+    { nome: "elon", xp: 6000 },
     { nome: "felipe", xp: 7500 },
+    
    
 ];
 
