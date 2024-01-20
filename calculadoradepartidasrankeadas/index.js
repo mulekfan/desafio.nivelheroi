@@ -31,5 +31,4 @@ const derrotas = 20;
 const resultado = calcularRank(vitorias, derrotas);
 console.log(resultado);
 
-
-  
+   o heroi tem um saldo de 55 e esta no nivel ouro.
